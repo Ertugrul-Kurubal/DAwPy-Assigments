@@ -1,0 +1,5 @@
+NCD Deaths by cause and sex
+Data by country: https://apps.who.int/gho/data/view.main.NCDDEATHCAUSESNUMBERv?lang=en
+
+World Bank national accounts data, 
+and OECD National Accounts data files. : https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2019&start=2000&view=chart
